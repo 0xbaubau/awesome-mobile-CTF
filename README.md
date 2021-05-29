@@ -4,13 +4,13 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable mobile app
 Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
 ## Mobile CTF challenges
-- [x] [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
-- [x] [ASIS CTF — ShareL Walkthrough](https://medium.com/bugbountywriteup/asis-ctf-sharel-walkthrough-da32f3533b40?)
+* [x] [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
+* [x] [ASIS CTF — ShareL Walkthrough](https://medium.com/bugbountywriteup/asis-ctf-sharel-walkthrough-da32f3533b40?)
 * [Android reversing challenges](https://github.com/kiyadesu/android-reversing-challenges)
 * [Android app for IOT CTF](https://github.com/atekippe/SecDSM_April_2019_IOT_CTF_Android_APP)
-- [x] [CyberTruck Challenge 2019 (Detroit USA)](https://github.com/nowsecure/cybertruckchallenge19)
+* [x] [CyberTruck Challenge 2019 (Detroit USA)](https://github.com/nowsecure/cybertruckchallenge19)
 * [Matryoshka-style Android reversing challenge](https://github.com/o-o-overflow/dc2019q-vitor-public)
-- [x] [Cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19)
+* [x] [Cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19)
 * [You Shall Not Pass - BSides Canberra 2019](https://gitlab.com/cybears/fall-of-cybeartron/tree/master/challenges/rev/youshallnotpass)
 * [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [BSidesSF 2018 CTF](https://github.com/antojoseph/androidCTF)
